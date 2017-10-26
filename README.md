@@ -7,4 +7,4 @@ These lessons target students with no (or very little) previous knowledge/experi
 This will be explained in the first session. In order to contribute to this repository, you must come to at least one of our sessions.
 
 ## More about OxWoCS
-You can take a look at our (website)[www.cs.ox.ac.uk/societies/women] and our (Facebook page)[www.facebook.com/OxWoCS].
+You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [Facebook page](www.facebook.com/OxWoCS).
