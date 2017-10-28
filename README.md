@@ -10,5 +10,5 @@ This will be explained in the first session. In order to contribute to this repo
 You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [Facebook page](www.facebook.com/OxWoCS).
 
 ## Contributors
-oxwocs-demo
-cvlasov
+ - oxwocs-demo
+ - cvlasov
