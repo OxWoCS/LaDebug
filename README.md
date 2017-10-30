@@ -13,7 +13,7 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - oxwocs-demo
  - cvlasov
  - notantonia
- - [Tajwar1234] (https://github.com/Tajwar1234)
+ - [Tajwar1234](https://github.com/Tajwar1234)
  - jasminerienecker99
  - googga
 
