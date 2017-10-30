@@ -14,6 +14,7 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - cvlasov
  - notantonia
  - [Tajwar1234](https://github.com/Tajwar1234)
+ - Kristina1999
+ - Tajwar12
  - jasminerienecker99
  - googga
-
