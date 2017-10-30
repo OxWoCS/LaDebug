@@ -13,4 +13,4 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - oxwocs-demo
  - cvlasov
  - notantonia
- - jasminerienecker99
+ - [jasminerienecker99](https://github.com/jasminerienecker99)
