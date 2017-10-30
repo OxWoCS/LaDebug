@@ -10,7 +10,7 @@ This will be explained in the first session. In order to contribute to this repo
 You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [Facebook page](www.facebook.com/OxWoCS).
 
 ## Contributors
- - oxwocs-demo
+ - [oxwocs-demo](https://github.com/oxwocs-demo)
  - [cvlasov](https://github.com/cvlasov)
  - notantonia
  - [Tajwar1234](https://github.com/Tajwar1234)
