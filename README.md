@@ -14,3 +14,8 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - cvlasov
  - notantonia
  - [jasminerienecker99](https://github.com/jasminerienecker99)
+ - Kristina1999
+ - Tajwar12
+ - jasminerienecker99
+ - googga
+
