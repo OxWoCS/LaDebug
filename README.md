@@ -12,9 +12,9 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
 ## Contributors
  - oxwocs-demo
  - cvlasov
- - notantonia
  - [jasminerienecker99](https://github.com/jasminerienecker99)
  - Kristina1999
+ - [Kristina1999] (https://github.com/Kristina1999)
  - Tajwar12
  - jasminerienecker99
  - googga
