@@ -16,4 +16,4 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - [Kristina1999](https://github.com/Kristina1999)
  - Tajwar12
  - jasminerienecker99
- - googga
+ - [googga](https://github.com/Googga)
