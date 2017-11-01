@@ -17,6 +17,10 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - [Kristina1999](https://github.com/Kristina1999)
  - [jasminerienecker99](https://github.com/jasminerienecker99)
  - [googga](https://github.com/Googga)
+ - [bessmarche](https://github.com/bessmarche)
+ - [FreyaC0210](https://github.com/FreyaC0210)
+ - [roptot](https://github.com/roptot)
+ - [sockenfeet](https://github.com/sockenfeet)
+ - [annawhitm](https://github.com/annawhitm)
+ - [lmcevoy](https://github.com/lmcevoy)
  - [elliewilliams404](https://github.com/elliewilliams404)
- 
- 
