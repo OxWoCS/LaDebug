@@ -18,3 +18,4 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - [jasminerienecker99](https://github.com/jasminerienecker99)
  - [googga](https://github.com/Googga)
  - [FreyaC0210](https://github.com/FreyaC0210)
+ - [roptot](https://github.com/roptot)
