@@ -21,3 +21,4 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - [roptot](https://github.com/roptot)
  - [sockenfeet](https://github.com/sockenfeet)
  - [annawhitm](https://github.com/annawhitm)
+ - [lmcevoy](https://github.com/lmcevoy)
