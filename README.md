@@ -25,6 +25,7 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - [annawhitm](https://github.com/annawhitm)
  - [lmcevoy](https://github.com/lmcevoy)
  - [elliewilliams404](https://github.com/elliewilliams404)
+ - [andreiRad97](https://githube.com/andreiRad97)
  - [Claudia](https://github.com/barcavelha)
  - [marib](https://github.com/maryb14)
  - [cs-grant](https://github.com/cs-grant)
