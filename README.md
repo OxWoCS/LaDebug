@@ -25,4 +25,5 @@ You can take a look at our [website](www.cs.ox.ac.uk/societies/women) and our [F
  - [annawhitm](https://github.com/annawhitm)
  - [lmcevoy](https://github.com/lmcevoy)
  - [elliewilliams404](https://github.com/elliewilliams404)
+ - [strimbu-alexandru](https://github.com/strimbu-alexandru)
  - [Skylord-Guthix](https://github.com/Skylord-Guthix)
